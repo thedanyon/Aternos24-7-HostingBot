@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hived.aternos.me",
+    "ip": "huchen.aternos.host",
     "port": 11343,
     "version": "1.21.11",
     "try-creative": false
