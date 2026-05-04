@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bristlemouth.aternos.host",
+    "ip": "Hived.aternos.host",
     "port": 11343,
     "version": "1.21.1",
     "try-creative": false
